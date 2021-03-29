@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johan2002
-- 👀 I’m interested in la programación web.
-- 🌱 I’m currently learning Java, Mysql,Git y  JavaScript.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Java, Mysql, Git y JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
