@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Johan2002
+- 👋 Hi, I’m @JohanSemprum
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Java, Mysql, Git and JavaScript.
+- 🌱 I’m currently learning Nodejs, Express, MongoDB, Mysql, Git and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
