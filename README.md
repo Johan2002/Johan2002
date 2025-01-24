@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @JohanSemprum
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Nodejs, Express, MongoDB, Mysql, Git and JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+💻 Sobre mí
+¡Hola! Soy un desarrollador backend apasionado por crear soluciones escalables y eficientes. Mi experiencia incluye el diseño y desarrollo de API RESTful, integración de WebSockets y la implementación de sistemas de autenticación segura con JWT.
 
-<!---
-Johan2002/Johan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Tecnologías que domino:
+Frameworks y Lenguajes: NestJS, Node.js
+Bases de Datos: PostgreSQL, MySQL
+ORMs: TypeORM
+Otros: WebSockets, JWT, creación de API REST
+Siempre estoy buscando aprender nuevas tecnologías y asumir desafíos interesantes. Si te interesa colaborar en un proyecto, ¡hablemos!
